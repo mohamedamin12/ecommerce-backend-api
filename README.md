@@ -1,4 +1,4 @@
-# Techno-Bay
+# Ecommerce Backend api
 
 ## Project Overview
 Techno-Bay is an e-commerce platform designed to facilitate online shopping. This Node.js Express API provides robust backend functionalities for the platform, including user authentication, product management, and payment integrations.
