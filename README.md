@@ -46,5 +46,5 @@ STRIPE_SECRET_KEY=your_stripe_secret_key
 6. Access the API at `http://localhost:7000.`.
 
 ## API Documentation 
-The API documentation is available at the following URL: https://documenter.getpostman.com/view/34351164/2sAY547JqM
+The API documentation is available at the following URL: You can view the full API documentation using **Postman** [here](https://documenter.getpostman.com/view/34351164/2sAXqzYJiT).
 # ecommerce-backend-api
